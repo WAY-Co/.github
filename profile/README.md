@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://dt.w-a-y.co">
-    <img src="https://i.imgur.com/cMYlvOc.png" alt="Logo" width="128" height="128">
+    <img src="https://i.imgur.com/gEhiTxP.png" alt="Logo" width="128" height="128">
   </a>
 
   <h3 align="center">DT WAY</h3>
